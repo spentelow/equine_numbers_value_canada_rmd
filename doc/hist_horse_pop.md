@@ -24,7 +24,7 @@ two sources were used:
     farm
     value](http://open.canada.ca/data/en/dataset/b374f60b-9580-44dc-83f6-c0a850c15f30)
 
-There was a cool paper about horses onece(Milner and Hewitt 1969).
+There was a cool paper about horses once (Milner and Hewitt 1969).
 
 ## Methods
 
